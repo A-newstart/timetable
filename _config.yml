@@ -1,0 +1,28 @@
+# Site Configuration for GitHub Pages
+
+title: "January 2025 Exam Timetable" # Your site title
+description: "III sem BCA Exam Timetable for January 2025" # A short description
+author: "Bharath S" # Your name or author info
+
+# Base URL settings
+baseurl: "" # Leave empty unless your site is in a subdirectory
+url: "https://a-newstart.github.io" # Replace <your-username> with your GitHub username
+
+# Theme Settings
+theme: minima # Default Jekyll theme (can be customized later)
+
+# Social links (optional)
+social:
+  github: https://github.com/a-newstart # Replace with your GitHub profile link
+
+# Markdown and Permalinks
+markdown: kramdown
+permalink: pretty
+
+# Enable relative links for GitHub Pages
+relative_links: true
+
+# Plugins (Optional, uncomment if needed)
+# plugins:
+#   - jekyll-seo-tag
+
