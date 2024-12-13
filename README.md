@@ -1,16 +1,14 @@
+
 # January 2025 Exam Timetable
 
 This repository contains the exam timetable for **III Semester BCA - January 2025**. The timetable is hosted using **GitHub Pages**, providing easy access and interaction.
 
-## Features
-
-- **Interactive Dates:** Clicking on a date displays a popup with the time remaining until the exam.
-- **Exam Duration Display:** Clicking on the exam time shows the total duration of the exam.
-- **Responsive Design:** Adjusts to various screen sizes for better usability.
-- **Custom Watermark:** Subtle watermark at the bottom-right corner for credit.
+---
 
 ## Table of Contents
 
+- [Overview](#overview)
+- [Features](#features)
 - [Demo](#demo)
 - [Usage](#usage)
 - [Hosting](#hosting)
@@ -18,16 +16,46 @@ This repository contains the exam timetable for **III Semester BCA - January 202
 
 ---
 
+## Overview
+
+This project serves as a simple timetable webpage for exams. It includes clickable functionality and a responsive design, making it useful for students.
+
+---
+
+## Features
+
+- **Interactive Dates:** Clicking on a date displays a popup with time remaining.
+- **Duration Calculation:** Clicking on the time reveals the total duration of the exam.
+- **Watermark:** Subtle watermark crediting the creator.
+
+---
+
 ## Demo
 
-You can view the live timetable hosted using GitHub Pages at:  
-[Live Demo](https://a-newstart.github.io/timetable)
+View the live timetable hosted on **GitHub Pages**:  
+[Live Demo](https://your-username.github.io/your-repo-name)
 
 ---
 
 ## Usage
 
-### Clone the Repository
-To clone this repository and use it locally, run:
-```bash
-git clone https://github.com/a-newstart/timetable.git
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+2. Open `index.html` in your browser to see the timetable locally.
+
+---
+
+## Hosting
+
+The timetable is hosted using GitHub Pages. Visit it at:  
+`https://your-username.github.io/your-repo-name`
+
+---
+
+## Credits
+
+Created by **Bharath S**, 2024.  
+If you found this helpful, consider ⭐ starring this repository!
+
