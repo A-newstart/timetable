@@ -33,7 +33,7 @@ This project serves as a simple timetable webpage for exams. It includes clickab
 ## Demo
 
 View the live timetable hosted on **GitHub Pages**:  
-[Live Demo](https://your-username.github.io/your-repo-name)
+[Live Demo](https://a-newstart.github.io/timetable)
 
 ---
 
